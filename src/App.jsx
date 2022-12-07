@@ -6,7 +6,7 @@ import styles from "./App.module.css"
 
 import "./global.css"
 
-const post = [
+const posts = [
   {
     id: 1,
     author: {
@@ -49,8 +49,14 @@ export function App() {
       <div className={styles.wrapper}>
         <Sidebar/>
         <main>
-          <Post />
-          <Post />
+          {posts.map( post => (
+            <Post
+              key={post.id}
+              author={post.author}
+              content={post.content}
+              publishedAt={post.publishedAt}
+            />
+          ))}
         </main>
       </div>
     </div>
