@@ -1,4 +1,6 @@
-## Ignite Feed
+<h1 align="center">
+    Event Platform. | Ignite-Lab#2
+</h1>
 
 <div align="center">
 
@@ -19,3 +21,48 @@
   </a>
 
 </div>
+
+<h2>📷 Preview </h2>
+<h1 align="center">
+  <div style="display: flex; flex-direction: row;">
+    <img width="500" style="border-radius: 10px" height="auto" alt="Class-02" title="Class-02" src="public/preview.gif" />
+  <div>
+</h1>
+
+Ignite feed é um projeto que simula o feed das redes sociais, com funcionalidades como comentários, aplaudir e apagar comentário. 
+
+<h2 id="technologies"> 🛠 Tecnologias utilizadas: </h2>
+
+- [ReactJS](https://reactjs.org)
+- [NodeJS](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com) or Npm
+- [Git Bash](https://gitforwindows.org/)
+- [Phosphor Icons](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjFm-TeifD7AhWyr5UCHVSZA1wQFnoECBAQAQ&url=https%3A%2F%2Fphosphoricons.com%2F&usg=AOvVaw0B6_0g-qmH9oxUW4xxfnJG)
+
+
+```bash
+# Clone Repository
+$ git clone https://github.com/franciniltonsoaresmenzes/ignite-feed.git
+
+# Go to server folder
+$ cd https://github.com/franciniltonsoaresmenzes/ignite-feed.git
+
+# Install Dependencies
+
+$ npm install
+
+# updated file .example.env to your variables graphcms
+
+# rename file .example.env to .env.local
+
+# Run Aplication
+
+$ npm run dev
+
+# Access localhost
+http://localhost:3000
+```
+
+<p align="center">
+  Feito com 💜 by <a href="https://www.rocketseat.com.br/" >Rocketseat</a>
+</p>
