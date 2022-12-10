@@ -51,12 +51,6 @@ $ cd https://github.com/franciniltonsoaresmenzes/ignite-feed.git
 
 $ npm install
 
-# updated file .example.env to your variables graphcms
-
-# rename file .example.env to .env.local
-
-# Run Aplication
-
 $ npm run dev
 
 # Access localhost
