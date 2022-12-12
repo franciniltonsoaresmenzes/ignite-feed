@@ -1,5 +1,5 @@
 <h1 align="center">
-    Event Platform. | Ignite-Lab#2
+    Ignite Feed
 </h1>
 
 <div align="center">
