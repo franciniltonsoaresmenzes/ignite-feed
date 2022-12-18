@@ -1,3 +1,6 @@
+<p align="center" >
+<img src="src/assets/ignite-logo.svg" alt="last-commit" >
+</p>
 <h1 align="center">
     Ignite Feed
 </h1>
@@ -21,7 +24,9 @@
   </a>
 
 </div>
-<p align="center"> Aplicação Rocketseat Ignite Feed 💻 🚀 </p>
+
+<h2 align="center"> Aplicação Rocketseat Ignite Feed 💻 🚀 </h2>
+
 
 <h2>📷 Preview </h2>
 <h1 align="center">
