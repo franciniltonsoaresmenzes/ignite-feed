@@ -21,6 +21,7 @@
   </a>
 
 </div>
+<p align="center"> Aplicação Rocketseat Ignite Feed 💻 🚀 </p>
 
 <h2>📷 Preview </h2>
 <h1 align="center">
