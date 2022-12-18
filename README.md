@@ -30,7 +30,13 @@
 
 <h2>📷 Preview </h2>
 <h1 align="center">
-  <div style="display: flex; flex-direction: row; ">
+  <div style="display: flex; flex-direction: row;">
+    <img width="500" style="border-radius: 10px" height="auto" alt="Class-02" title="Class-02" src="public/preview.gif" />
+  <div>
+</h1>
+
+<h1 align="center">
+  <div style="display: flex; flex-direction: row;">
     <img width="250" style="border-radius: 10px" height="auto" alt="Class-02" title="Class-02" src="public/mobile.png" />
     <img width="500" style="border-radius: 10px" height="auto" alt="Class-02" title="Class-02" src="public/desktop.png" />
   <div>
